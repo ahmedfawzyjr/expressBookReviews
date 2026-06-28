@@ -1,0 +1,26 @@
+curl -s https://api.github.com/repos/ahmedfawzyjr/expressBookReviews
+
+{
+  "id": 533628036,
+  "node_id": "R_kgDOH86EhA",
+  "name": "expressBookReviews",
+  "full_name": "ahmedfawzyjr/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "ahmedfawzyjr"
+  },
+  "html_url": "https://github.com/ahmedfawzyjr/expressBookReviews",
+  "fork": true,
+  "parent": {
+    "id": 533628036,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "id": 533628036,
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  }
+}
